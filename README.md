@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jferrer-l
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning in 42 Barcelona school
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jferrerluengo@gmail.com
 
 <!---
