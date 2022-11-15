@@ -21,3 +21,9 @@
 <img src="https://user-images.githubusercontent.com/64914665/201991602-c789bc73-bf2f-4740-be75-d1c3e696f78b.png" alt="<gmail" width="15" height="15"/> → jferrerluengo@gmail.com 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-ferrer-luengo/)
+
+<br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jferrer-l/count.svg" />
+</p>
