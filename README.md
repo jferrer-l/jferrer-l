@@ -10,7 +10,7 @@
 
 ## 🟩 My 42 intra profile 👾
 
-[![jferrer- 42 stats](https://badge42.vercel.app/api/v2/cl6c57pgb000609mczjgb8q5s/stats?cursusId=21&coalitionId=206)
+![jferrer- 42 stats](https://badge42.vercel.app/api/v2/cl6c57pgb000609mczjgb8q5s/stats?cursusId=21&coalitionId=206)
 
 ## 🟩 Github stats 📊
 
