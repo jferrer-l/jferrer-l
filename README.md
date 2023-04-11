@@ -23,8 +23,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-ferrer-luengo/)
 
-<br>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jferrer-l/count.svg" />
-</p>
+
